@@ -1,4 +1,4 @@
-### Hi, I'm Nathan 👋🏾, Man Technologist: Dark Skin Tone on Apple  
+### Hi, I'm Nathan 👋🏾, 👨🏿‍💻
 
 <!--
 **nathanembaye/nathanembaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
